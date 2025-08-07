@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Projects/ATB12xAPIAutomation">
+        <classes>
+            <class name="org.example.Ex03_RestAssured_HTTP_Methods.Get.Lab006_GET_NonBDDStyle">
+
+            </class>
+            <class name="org.example.Ex03_RestAssured_HTTP_Methods.POST.Lab008_POST_NonBDDStyle">
+
+            </class>
+            <class name="org.example.Ex03_RestAssured_HTTP_Methods.PUT.Lab009_PUT_NonBDDStyle">
+
+            </class>
+            <class name="org.example.Ex03_RestAssured_HTTP_Methods.PATCH.Lab010_PATCH_NonBDDStyle">
+
+            </class>
+            <class name="org.example.Ex03_RestAssured_HTTP_Methods.DELETE.Lab011_DELETE_NonBDDStyle">
+
+            </class>
+        </classes>
+    </test>
+</suite>

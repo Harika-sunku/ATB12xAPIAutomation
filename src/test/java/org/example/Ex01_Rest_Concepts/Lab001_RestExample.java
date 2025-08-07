@@ -2,7 +2,7 @@ package org.example.Ex01_Rest_Concepts;
 
 import io.restassured.RestAssured;
 
-public class Lab01_RestExample {
+public class Lab001_RestExample {
 
     public static void main(String[] args) {
 
