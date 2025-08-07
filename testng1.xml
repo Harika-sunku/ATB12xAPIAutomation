@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Projects/ATB12xAPIAutomation">
+        <classes>
+            <class name="org.example.Ex02_TestNG.Lab004_TestCase">
+                <methods>
+                    <include name="test_GET_POSITIVE_TC1"/>
+                    <include name="test_GET_NEGATIVE_TC2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
